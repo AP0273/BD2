@@ -1,0 +1,1 @@
+select DISTINCT (first_name) , (last_name) from psdb.employees
